@@ -27,6 +27,7 @@ DAX (Data Analysis Expressions) – for creating custom measures and KPIs
 CSV/Excel – assumed data source for import and transformation
 ## Dashboard
 <img width="882" height="499" alt="Screenshot 2025-07-29 114106" src="https://github.com/user-attachments/assets/3ea22db3-d874-4e4b-b22b-3fc958b89a20" />
+
 ## 🧠 Project Insights
 Supermarket Type1 leads in sales, ratings, and visibility.
 Medium-sized outlets generate the highest revenue.
