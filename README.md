@@ -13,4 +13,18 @@ Which outlet types have the highest and lowest customer ratings?
 How has sales performance changed over the years?
 Which areas require performance improvement?
 ## Dashboard link
-- <
+- <a href="https://github.com/bhoomisingh56/Blinkit-Dashboard/blob/main/Screenshot%202025-07-29%20114106.png">DASHBOARD INTERACTION</a>
+## 🔄 Process
+Imported sales data into Power BI from Excel/CSV.
+Cleaned and transformed data (handled nulls, standardized values).
+Created KPIs and measures using DAX (e.g., Total Sales, Avg Ratings).
+Designed interactive visuals using bar charts, donut charts, and slicers.
+Analyzed insights on outlet types, item categories, location tiers, and customer ratings.
+Exported dashboard and documented findings for portfolio showcase.
+## 🛠 Tools & Technologies Used
+Power BI Desktop – for dashboard design and data modeling
+DAX (Data Analysis Expressions) – for creating custom measures and KPIs
+CSV/Excel – assumed data source for import and transformation
+## Dashboard
+<img width="882" height="499" alt="Screenshot 2025-07-29 114106" src="https://github.com/user-attachments/assets/3ea22db3-d874-4e4b-b22b-3fc958b89a20" />
+
