@@ -1,2 +1,3 @@
-# Blinkit-Dashboard
-An interactive Power BI dashboard visualizing Blinkit's sales, outlet performance, and product insights. Includes KPIs, trends, and filters for data-driven decision-making across outlet types, item categories, and customer ratings.
+#Blinkit Sales Analysis Dashboard (Power BI)
+##🧭 Objective
+To create a dynamic and interactive Power BI dashboard that provides meaningful insights into Blinkit's sales performance, customer behavior, outlet efficiency, and product-level analytics. This project helps business stakeholders make data-driven decisions.
